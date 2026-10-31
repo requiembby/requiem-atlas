@@ -112,9 +112,7 @@ MIT. Requiem Atlas is an independent demonstration. Its design, names and code s
 
 These are **static visual previews based on the application's source layout and CSS**, not recordings of a live running React server. The results screen contains illustrative sample values, not real scan data.
 
-![Overview dashboard preview](docs/preview-overview.png)
-
-![Illustrative results layout](docs/preview-results-demo.png)
+The full downloadable ZIP includes two static UI preview images. The GitHub repository currently contains source code only.
 
 ## Publish to GitHub (Windows)
 
